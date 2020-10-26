@@ -1,3 +1,9 @@
 h1 {
   color: crimson;
 }
+
+img {
+  width: 100%;
+  max-width: 300px;
+  min-width: 175px;
+}
